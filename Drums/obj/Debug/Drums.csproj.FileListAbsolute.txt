@@ -1,0 +1,8 @@
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\bin\Debug\Drums.exe.config
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\bin\Debug\Drums.exe
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\bin\Debug\Drums.pdb
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\obj\Debug\Drums.csprojResolveAssemblyReference.cache
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\obj\Debug\Drums.exe
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\obj\Debug\Drums.pdb
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\obj\Debug\Drums.MainForm.resources
+C:\Users\VoleTT\Documents\SharpDevelop Projects\Drums\Drums\obj\Debug\Drums.csproj.GenerateResource.Cache
